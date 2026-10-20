@@ -106,9 +106,9 @@ I enjoy turning raw data into clear insights, from cleaning and EDA to building 
   <img src="https://streak-stats.demolab.com?user=Ompardeshi16&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ompardeshi16&theme=react-dark&hide_border=true"/>
-</p> -->
+</p>
 
 ---
 
